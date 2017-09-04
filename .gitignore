@@ -18,3 +18,11 @@
 /vendor/bundle
 
 /.idea
+
+/.DS_Store
+
+/.vagrant
+
+/Vagrantfile
+
+/provision
