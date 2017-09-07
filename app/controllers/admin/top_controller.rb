@@ -1,5 +1,5 @@
 class Admin::TopController < ApplicationController
   def index
-    raise
+    raise IpAddressRejected
   end
 end
