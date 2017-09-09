@@ -1,5 +1,4 @@
-class Staff::TopController < ApplicationController
+class Staff::TopController < Staff::Base
   def index
-    raise
   end
 end

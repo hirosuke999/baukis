@@ -65,6 +65,8 @@ GEM
     mail (2.5.5)
       mime-types (~> 1.16)
       treetop (~> 1.4.8)
+    migration_comments (0.3.2)
+      activerecord (>= 2.3.2)
     mime-types (1.25.1)
     mini_portile2 (2.1.0)
     minitest (5.10.3)
@@ -164,6 +166,7 @@ DEPENDENCIES
   factory_girl_rails (~> 4.4.1)
   jbuilder (~> 2.0)
   jquery-rails
+  migration_comments (~> 0.3.2)
   mysql2 (~> 0.3.13)
   nokogiri (~> 1.6.1)
   rails (= 4.1.0)
