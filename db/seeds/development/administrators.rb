@@ -1,4 +1,4 @@
 Administrator.create!(
                  email: 'hanako@example.com',
-                 hashed_password: 'foobar'
+                 password: 'foobar'
 )
